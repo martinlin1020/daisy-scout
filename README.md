@@ -1,3 +1,3 @@
-# Daisy Scout v0.2
+# Daisy Scout v0.3
 
-Adds saved Search Profiles and Amazon candidate pre-filtering.
+Amazon department dropdown + dynamic sub-department + Run Search workflow.
