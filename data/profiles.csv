@@ -1,0 +1,6 @@
+Profile Name,Sources,Amazon Department,Amazon Category,Amazon URL,Min Price,Max Price,Max Weight,Min Reviews,Min Rating,Max BSR
+Parent Tech,"Best Sellers,New Releases,Movers & Shakers",Toys & Games,Learning & Education,https://www.amazon.com/gp/new-releases/toys-and-games/,20,250,3,300,4.2,5000
+Disney / IP,"Best Sellers,New Releases",Toys & Games,Disney,https://www.amazon.com/s?k=disney+electronics+toys,20,200,3,300,4.2,10000
+Reading / Kindle,"Best Sellers,New Releases",Electronics,eBook Readers & Accessories,https://www.amazon.com/s?k=kindle+accessories,20,300,3,300,4.2,10000
+Education Tech,"Best Sellers,New Releases,Movers & Shakers",Toys & Games,Electronic Learning Toys,https://www.amazon.com/s?k=electronic+learning+toys,20,250,3,300,4.2,5000
+US Exclusive / Limited,"New Releases,Movers & Shakers",Electronics,Limited / Special Edition,https://www.amazon.com/s?k=limited+edition+electronics,50,400,5,100,4.0,20000

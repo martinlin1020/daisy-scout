@@ -1,0 +1,5 @@
+Product Name,Amazon URL,Amazon Price USD,Weight lb,Amazon Reviews,Amazon Rating,BSR,Daisy Category,Amazon Choice,Best Seller,New Release,Movers & Shakers,Shopee Keyword,Target Shopee Price TWD,Shopee Seller Count,Shopee Highest Sold
+Nex-like Parent Tech Sample,https://www.amazon.com/,89.99,2.1,2300,4.5,3000,Parent Tech,FALSE,FALSE,TRUE,FALSE,親子 體感 遊戲機,6990,3,25
+Disney IP Earbuds Sample,https://www.amazon.com/,24.99,0.5,1200,4.4,4200,Disney / IP,TRUE,FALSE,FALSE,FALSE,星際寶貝 耳機,2190,1,30
+Kindle Accessory Sample,https://www.amazon.com/,44.99,0.8,700,4.3,7000,Kindle / E-reader,FALSE,FALSE,FALSE,FALSE,kindle 無線充電座,2990,5,10
+Heavy Reject Sample,https://www.amazon.com/,129.99,8.0,5000,4.6,1000,Parent Tech,FALSE,TRUE,FALSE,FALSE,大型兒童玩具,6990,4,50
